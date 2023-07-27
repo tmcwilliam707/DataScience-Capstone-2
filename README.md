@@ -3,7 +3,7 @@ Data Science for Capstone 2 Project
 this is a found solution that was full of bugs, missing or incorrect imports and functions 
 and required 
 a large amount of debugging and enviroment preparation 
-with trial an error, computer vision was achieved but Tensorflow must be opitmized with exact 2.01 standards, 
+with trial an error, the MNIST library and some ingenuity, the machine vision hand written text recogintion program achieved 97% accuracy but Tensorflow must be opitmized with exact 2.01 standards, 
 python 3 and the correct versions of mnist and nist.
 
 1. Download all files and request data files.
